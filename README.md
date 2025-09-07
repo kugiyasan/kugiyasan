@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Léo Banno-Cloutier</h1>
-<h3 align="center">Software engineering student at Polytechnique Montreal</h3>
+<h3 align="center">Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kugiyasan&label=Profile%20views&color=0e75b6&style=flat" alt="kugiyasan" /> </p>
 
